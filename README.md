@@ -1,4 +1,4 @@
-#  AI-Powered Customer Support Ticketing System
+#  AI-Powered Customer Support and Service automation 
 
 > **SmartBridge Internship Project**  
 > **Program:** SmartBridge Internship (Implemented through SkillWallet & Salesforce)
